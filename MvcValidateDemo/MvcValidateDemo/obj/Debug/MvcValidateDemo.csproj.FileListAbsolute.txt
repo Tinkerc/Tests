@@ -1,0 +1,76 @@
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\MvcValidateDemo.dll.config
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\MvcValidateDemo.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\MvcValidateDemo.pdb
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\Antlr3.Runtime.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\EntityFramework.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\Newtonsoft.Json.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Net.Http.Formatting.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Http.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Http.WebHost.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Mvc.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Optimization.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Providers.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Razor.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.Razor.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\WebGrease.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\EntityFramework.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\Newtonsoft.Json.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Net.Http.Formatting.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Http.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Http.WebHost.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Mvc.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Razor.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.Razor.xml
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\EntityFramework.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Http.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Providers.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\obj\Debug\MvcValidateDemo.dll
+D:\Work\ASP.Net MVC特供视频\Code\MvcValidateDemo\MvcValidateDemo\obj\Debug\MvcValidateDemo.pdb
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\MvcValidateDemo.dll.config
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\MvcValidateDemo.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\MvcValidateDemo.pdb
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\Antlr3.Runtime.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\EntityFramework.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\Newtonsoft.Json.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Mvc.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Optimization.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Providers.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Razor.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.Deployment.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.Razor.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\WebGrease.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\EntityFramework.xml
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\Newtonsoft.Json.xml
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Mvc.xml
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.Razor.xml
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.xml
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.Deployment.xml
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\System.Web.WebPages.Razor.xml
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\EntityFramework.resources.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Providers.resources.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\obj\Debug\MvcValidateDemo.csprojResolveAssemblyReference.cache
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\obj\Debug\MvcValidateDemo.dll
+D:\TestProject\MvcValidateDemo\MvcValidateDemo\obj\Debug\MvcValidateDemo.pdb

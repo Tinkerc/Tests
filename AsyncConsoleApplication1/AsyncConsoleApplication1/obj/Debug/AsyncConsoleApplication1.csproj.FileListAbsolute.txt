@@ -1,0 +1,6 @@
+D:\TestProject\AsyncConsoleApplication1\AsyncConsoleApplication1\bin\Debug\AsyncConsoleApplication1.exe.config
+D:\TestProject\AsyncConsoleApplication1\AsyncConsoleApplication1\bin\Debug\AsyncConsoleApplication1.exe
+D:\TestProject\AsyncConsoleApplication1\AsyncConsoleApplication1\bin\Debug\AsyncConsoleApplication1.pdb
+D:\TestProject\AsyncConsoleApplication1\AsyncConsoleApplication1\obj\Debug\AsyncConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\TestProject\AsyncConsoleApplication1\AsyncConsoleApplication1\obj\Debug\AsyncConsoleApplication1.exe
+D:\TestProject\AsyncConsoleApplication1\AsyncConsoleApplication1\obj\Debug\AsyncConsoleApplication1.pdb

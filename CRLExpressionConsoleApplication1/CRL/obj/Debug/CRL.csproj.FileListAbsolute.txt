@@ -1,0 +1,14 @@
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CRL\obj\Debug\CRL.csprojResolveAssemblyReference.cache
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CRL\bin\Debug\CRL.dll
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CRL\bin\Debug\CRL.pdb
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CRL\bin\Debug\CoreHelper.dll
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CRL\bin\Debug\CoreHelper.pdb
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CRL\obj\Debug\CRL.dll
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CRL\obj\Debug\CRL.pdb
+D:\TestProject\ExpressionConsoleApplication1\CRL\bin\Debug\CRL.dll
+D:\TestProject\ExpressionConsoleApplication1\CRL\bin\Debug\CRL.pdb
+D:\TestProject\ExpressionConsoleApplication1\CRL\bin\Debug\CoreHelper.dll
+D:\TestProject\ExpressionConsoleApplication1\CRL\bin\Debug\CoreHelper.pdb
+D:\TestProject\ExpressionConsoleApplication1\CRL\obj\Debug\CRL.csprojResolveAssemblyReference.cache
+D:\TestProject\ExpressionConsoleApplication1\CRL\obj\Debug\CRL.dll
+D:\TestProject\ExpressionConsoleApplication1\CRL\obj\Debug\CRL.pdb

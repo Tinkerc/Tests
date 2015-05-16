@@ -1,0 +1,37 @@
+﻿@model List<Applications.Entity.UserEntity>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserList</title>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <th>编号</th>
+                <th>名称</th>
+                <th>密码</th>
+                <th>年龄</th>
+            </tr>
+            @{
+                foreach (var userEntity in Model)
+                {
+                    <tr>
+                        <td>@userEntity.Id</td>
+                        <td>@userEntity.Name</td>
+                        <td>@userEntity.Pwd</td>
+                        <td>@userEntity.Age</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</body>
+</html>

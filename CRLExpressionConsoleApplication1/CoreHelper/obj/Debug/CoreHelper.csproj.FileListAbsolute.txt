@@ -1,0 +1,9 @@
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CoreHelper\bin\Debug\CoreHelper.dll
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CoreHelper\bin\Debug\CoreHelper.pdb
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CoreHelper\obj\Debug\CoreHelper.dll
+C:\Users\hegang.chen.ZHAOGANG\Desktop\ExpressionConsoleApplication1\CoreHelper\obj\Debug\CoreHelper.pdb
+D:\TestProject\ExpressionConsoleApplication1\CoreHelper\bin\Debug\CoreHelper.dll
+D:\TestProject\ExpressionConsoleApplication1\CoreHelper\bin\Debug\CoreHelper.pdb
+D:\TestProject\ExpressionConsoleApplication1\CoreHelper\obj\Debug\CoreHelper.csprojResolveAssemblyReference.cache
+D:\TestProject\ExpressionConsoleApplication1\CoreHelper\obj\Debug\CoreHelper.dll
+D:\TestProject\ExpressionConsoleApplication1\CoreHelper\obj\Debug\CoreHelper.pdb

@@ -1,0 +1,11 @@
+D:\TestProject\EF_WebApplication1\Applications\obj\Debug\Applications.csprojResolveAssemblyReference.cache
+D:\TestProject\EF_WebApplication1\Applications\bin\Debug\Applications.dll
+D:\TestProject\EF_WebApplication1\Applications\bin\Debug\Applications.pdb
+D:\TestProject\EF_WebApplication1\Applications\bin\Debug\EntityFramework.dll
+D:\TestProject\EF_WebApplication1\Applications\bin\Debug\EntityFramework.SqlServer.dll
+D:\TestProject\EF_WebApplication1\Applications\bin\Debug\EntityFramework.xml
+D:\TestProject\EF_WebApplication1\Applications\bin\Debug\EntityFramework.SqlServer.xml
+D:\TestProject\EF_WebApplication1\Applications\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\TestProject\EF_WebApplication1\Applications\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\TestProject\EF_WebApplication1\Applications\obj\Debug\Applications.dll
+D:\TestProject\EF_WebApplication1\Applications\obj\Debug\Applications.pdb

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B7942C6-D0E0-4CA6-A407-A7F23BA4717D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CRL</RootNamespace>
+    <AssemblyName>CRL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attribute\FieldAttribute.cs" />
+    <Compile Include="Attribute\FieldIndexType.cs" />
+    <Compile Include="Attribute\FieldType.cs" />
+    <Compile Include="Attribute\TableAttribute.cs" />
+    <Compile Include="Base.cs" />
+    <Compile Include="BaseProvider.cs" />
+    <Compile Include="DBAdapter\DBAdapterBase.cs" />
+    <Compile Include="DBAdapter\MSSQLDBAdapter.cs" />
+    <Compile Include="DBAdapter\ORACLEDBAdapter.cs" />
+    <Compile Include="DBExtend.cs" />
+    <Compile Include="Dynamic\DapperRowMetaObject.cs" />
+    <Compile Include="Dynamic\DynamicObjConvert.cs" />
+    <Compile Include="Dynamic\DynamicObject.cs" />
+    <Compile Include="IModel.cs" />
+    <Compile Include="IModelBase.cs" />
+    <Compile Include="LambdaQuery.cs" />
+    <Compile Include="LambdaQuery\ExpressionVisitor.cs" />
+    <Compile Include="LambdaQuery\JoinType.cs" />
+    <Compile Include="LambdaQuery\MethodAnalyze.cs" />
+    <Compile Include="ObjectConvert.cs" />
+    <Compile Include="ParameCollection.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TypeCache.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CoreHelper\CoreHelper.csproj">
+      <Project>{504d131e-2975-4afd-b022-62abb3d75145}</Project>
+      <Name>CoreHelper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

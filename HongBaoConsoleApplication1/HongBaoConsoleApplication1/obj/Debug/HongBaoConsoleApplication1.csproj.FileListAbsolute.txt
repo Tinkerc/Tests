@@ -1,0 +1,6 @@
+D:\TestProject\HongBaoConsoleApplication1\HongBaoConsoleApplication1\bin\Debug\HongBaoConsoleApplication1.exe.config
+D:\TestProject\HongBaoConsoleApplication1\HongBaoConsoleApplication1\obj\Debug\HongBaoConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\TestProject\HongBaoConsoleApplication1\HongBaoConsoleApplication1\bin\Debug\HongBaoConsoleApplication1.exe
+D:\TestProject\HongBaoConsoleApplication1\HongBaoConsoleApplication1\bin\Debug\HongBaoConsoleApplication1.pdb
+D:\TestProject\HongBaoConsoleApplication1\HongBaoConsoleApplication1\obj\Debug\HongBaoConsoleApplication1.exe
+D:\TestProject\HongBaoConsoleApplication1\HongBaoConsoleApplication1\obj\Debug\HongBaoConsoleApplication1.pdb
